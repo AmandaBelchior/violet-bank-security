@@ -152,4 +152,4 @@ O **Violet Bank Security** é uma aplicação web construída no **Bubble.io** q
 ## 👩‍💻 Desenvolvido por
 
 Amanda Belchior  
-Projeto prático — Curso de Cibersegurança  
+Projeto prático 
