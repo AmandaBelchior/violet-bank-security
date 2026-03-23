@@ -12,7 +12,7 @@ O **Violet Bank Security** é uma aplicação web construída no **Bubble.io** q
 
 ## 🖼️ Screenshots
 
-> As capturas de tela da aplicação estão na pasta [`screenshots/`](./screenshots/).
+> As capturas de tela da aplicação estão na pasta [Screenshots Projeto Violet Bank Security](https://github.com/AmandaBelchior/violet-bank-security/blob/main/Screenshots%20Projeto%20Violet%20Bank%20Security).
 
 | Tela | Descrição |
 |---|---|
